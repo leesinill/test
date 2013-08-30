@@ -1,6 +1,6 @@
 hello world
 strcat(a, "_out.");
-strcat(a, "_out.");
+alsadjflaskdjflkasjdflkjastrcat(a, "_out.");
 strcat(a, b);
 strcat(a, b);
 eee
